@@ -1,4 +1,4 @@
-# PETfold / PETcofold — C++ edition with Python bindings
+# PETfold / PETcofold: C++ edition with Python bindings
 
 
 ## Installation
